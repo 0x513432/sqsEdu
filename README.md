@@ -1,0 +1,2 @@
+# sqsEdu
+Resource dump
