@@ -1,4 +1,4 @@
-## Side Quest Resources
+## Side Quest Resources 
   
 ##### Notes
 - *Links are in [OneTab](https://www.one-tab.com/) format currently*
