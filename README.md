@@ -10,6 +10,7 @@
   https://www.udemy.com/course/solidworks2021/ | Udemy Master Solidworks Course  
   
 ### Electrity and Electronics
+  https://everycircuit.com/app | EveryCircuit
   https://www.etai.org/Common_Formulas.pdf | ETAi CETa Common Formulas (pdf)  
   https://www.allaboutcircuits.com/ | All About Circuits  
   https://www.electronics-tutorials.ws/ | ElectronicsTutorials  
