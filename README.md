@@ -16,6 +16,8 @@
   https://www.electronics-tutorials.ws/ | ElectronicsTutorials  
   https://www.udemy.com/course/crash-course-electronics-and-pcb-design/ | Crash Course Electronics and PCB Design  
   https://theengineeringmindset.com/ | The Engineering Mindset  
+  https://www.autozone.com/diy/repair-guides/wiring-diagrams | AutoZone Wiring Diagrams  
+  https://fixmycarinfo.com/ | FixMyCarInfo Automotive Wiring Diagrams  
   
 #### PCB Design
   https://www.altium.com/education/students | Altium Designer Student License  
@@ -31,5 +33,5 @@
   
 ### Theater and Cosplay
   https://www.smooth-on.com/tutorials/ | Smooth-On Tutorials  
-  
-  
+
+### 
