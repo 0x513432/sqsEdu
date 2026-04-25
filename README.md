@@ -18,6 +18,7 @@
   https://theengineeringmindset.com/ | The Engineering Mindset  
   https://www.autozone.com/diy/repair-guides/wiring-diagrams | AutoZone Wiring Diagrams  
   https://fixmycarinfo.com/ | FixMyCarInfo Automotive Wiring Diagrams  
+  https://cardiagn.com/ | Cardiagn Wiring Diagrams
   
 #### PCB Design
   https://www.altium.com/education/students | Altium Designer Student License  
@@ -26,6 +27,7 @@
 ### Computers
   https://www.hackthebox.com/ | HackTheBox  
   https://tryhackme.com/ | TryHackMe  
+  https://cheatsheets.zip/ | Cheatsheets for Developers  
     
 #### Wargames and Capture the Flag Games
   https://overthewire.org/wargames/bandit/ | OverTheWire  
